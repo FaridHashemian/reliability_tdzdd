@@ -26,18 +26,18 @@
  * DEALINGS IN THE SOFTWARE.
  */
 
-#include <climits>
-#include <iostream>
-#include <map>
-#include <string>
-#include <vector>
-#include <fstream>
+#include "climits"
+#include "iostream"
+#include "map"
+#include "string"
+#include "vector"
+#include "fstream"
 
-#include <tdzdd/DdSpecOp.hpp>
-#include <tdzdd/DdStructure.hpp>
+#include "tdzdd/DdSpecOp.hpp"
+#include "tdzdd/DdStructure.hpp"
 
-#include <tdzdd/util/Graph.hpp>
-#include <tdzdd/spec/FrontierBasedSearch.hpp>
+#include "tdzdd/util/Graph.hpp"
+#include "tdzdd/spec/FrontierBasedSearch.hpp"
 
 //#include "FrontierBasedSearch.hpp"
 //#include "Graph.hpp"
